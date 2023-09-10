@@ -1,7 +1,7 @@
 <template>
   <header>
     <router-link to="/">
-      <h1>View<span>Movie</span></h1>
+      <h1>Exec<span>utant</span></h1>
     </router-link>
   </header>
   <main>
@@ -44,7 +44,7 @@ header {
   align-items: center;
   justify-content: center;
   padding: 10px 16px;
-  background-color: #2C3D4E;
+  background-color: #000000;
   box-shadow: 0px 0px 6px rgba($color: #000000, $alpha: 1.0);
 }
 
@@ -53,8 +53,7 @@ h1 {
   font-size: 26px;
 
   span {
-    color: aqua;
-    margin-left: 5px;
+    color: rgb(1, 39, 145);
   }
 }
 </style>

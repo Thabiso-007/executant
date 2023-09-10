@@ -112,7 +112,7 @@ export default {
       background: none;
 
       &[type="text"] {
-        width: 100%;
+        width: 50%;
         color: #FFF;
         background-color: #505050;
         padding: 10px 16px;
@@ -133,8 +133,8 @@ export default {
     button {
       width: 100%;
       max-width: 300px;
-      background-color: #07003c;
-      padding: 8px;
+      background-color: #000000;
+      margin: 10px;
       border: none;
       border-radius: 8px;
       color: #FFF;
@@ -142,7 +142,7 @@ export default {
       transition: 0.4s;
 
       &:active {
-        background-color: #3BB070;
+        background-color: #2d2d2d;
       }
     }
   }
