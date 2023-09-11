@@ -24,5 +24,5 @@ npm run lint
 
 ### Technologies used
 * [OMDb API](https://www.omdbapi.com/).The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.
-* [VueJS](Vue.js is an open-source model–view–viewmodel front end JavaScript library for building user interfaces and single-page applications.).Vue.js is an open-source model–view–viewmodel front end JavaScript library for building user interfaces and single-page applications.
+* [VueJS](https://vuejs.org/). Vue.js is an open-source model–view–viewmodel front end JavaScript library for building user interfaces and single-page applications.
 * [NodeJS](https://nodejs.org/en). Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more. Node.js is a back-end JavaScript runtime environment, runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
